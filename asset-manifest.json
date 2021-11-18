@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BlogPessoal-Deploy/static/css/main.7386b6b4.chunk.css",
+    "main.js": "/BlogPessoal-Deploy/static/js/main.623c2707.chunk.js",
+    "main.js.map": "/BlogPessoal-Deploy/static/js/main.623c2707.chunk.js.map",
+    "runtime-main.js": "/BlogPessoal-Deploy/static/js/runtime-main.83e084b3.js",
+    "runtime-main.js.map": "/BlogPessoal-Deploy/static/js/runtime-main.83e084b3.js.map",
+    "static/css/2.58a45539.chunk.css": "/BlogPessoal-Deploy/static/css/2.58a45539.chunk.css",
+    "static/js/2.85ce5aaf.chunk.js": "/BlogPessoal-Deploy/static/js/2.85ce5aaf.chunk.js",
+    "static/js/2.85ce5aaf.chunk.js.map": "/BlogPessoal-Deploy/static/js/2.85ce5aaf.chunk.js.map",
+    "static/js/3.31620edc.chunk.js": "/BlogPessoal-Deploy/static/js/3.31620edc.chunk.js",
+    "static/js/3.31620edc.chunk.js.map": "/BlogPessoal-Deploy/static/js/3.31620edc.chunk.js.map",
+    "index.html": "/BlogPessoal-Deploy/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/BlogPessoal-Deploy/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.7386b6b4.chunk.css.map": "/BlogPessoal-Deploy/static/css/main.7386b6b4.chunk.css.map",
+    "static/js/2.85ce5aaf.chunk.js.LICENSE.txt": "/BlogPessoal-Deploy/static/js/2.85ce5aaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83e084b3.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.85ce5aaf.chunk.js",
+    "static/css/main.7386b6b4.chunk.css",
+    "static/js/main.623c2707.chunk.js"
+  ]
+}
