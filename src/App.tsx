@@ -22,7 +22,7 @@ function App() {
     <div className = 'fundoBack'>
     <Provider store={store}>
       <ToastContainer/>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
       <Switch>
         <div style={{minHeight: '100vh'}}>
