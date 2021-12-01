@@ -16,6 +16,7 @@ import { Provider } from 'react-redux';
 import store from './store/store';
 import {ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import AppAnime from './pages/animes/AppAnime';
 
 function App() {
   return (
@@ -46,6 +47,9 @@ function App() {
           </Route>
           <Route path='/posts'>
             <ListaPostagem />
+          </Route>
+          <Route path='/anime'>
+            <AppAnime />
           </Route>
           <Route exact path='/formularioPostagem'>
             <CadastroPost />

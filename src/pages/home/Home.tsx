@@ -47,6 +47,13 @@ function Home() {
                         <Button variant="outlined" className='botao'>Ver Postagens</Button>
                         </Link>
                     </Box>
+                    <Box display="flex" justifyContent="center">
+                        <Box marginRight={1}>
+                        </Box>
+                        <Link to='/anime' className='text-decoration-none'>
+                        <Button variant="outlined" className='botao'>Pesquisar Animes</Button>
+                        </Link>
+                    </Box>
                 </Grid>
                 <Grid item xs={6} className='imagem'>
      </Grid>
